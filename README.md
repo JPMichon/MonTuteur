@@ -50,7 +50,7 @@ Voici un exemple réel d'un élève de 3e secondaire qui bloque sur un devoir de
 
 Vous pouvez utiliser ces tuteurs IA avec n'importe quel grand modèle de langage moderne (Gemini, ChatGPT, Claude, Copilot, etc.). Voici les méthodes recommandées :
 
-### Méthode 1 : Glisser-Déposer du fichier (Le plus simple pour l'élève) 🖱️
+### Méthode 1 : Glisser-déposer du fichier (Le plus simple pour l'élève) 🖱️
 1. Téléchargez le fichier texte du persona souhaité depuis ce dépôt (ex: `MonTuteur-Math_V1.0.txt`).
 2. Glissez-déposez directement le fichier dans la barre de texte de votre IA (Gemini, ChatGPT, etc.).
 3. Accompagnez le fichier d'un message simple, par exemple : **"Applique ce persona"**, puis posez votre question ou téléversez votre exercice.
