@@ -34,6 +34,18 @@ En guidant l'élève par le questionnement plutôt qu'en lui donnant la réponse
 * Validation immédiate : Demande systématique à l'élève de reformuler la notion ou de faire un micro-exercice avant de progresser.
 * Mise en page adaptée : Réponses courtes, aérées, utilisation stratégique du gras et d'émojis repères (💡, 🎯, 📝) pour capter l'attention des ados.
 
+## 👥 Les personas disponibles
+
+### 🏫 Matières du tronc commun
+Ces tuteurs sont conçus pour offrir une remédiation ciblée dans les matières obligatoires du secondaire.
+
+| Matière | Fichier du prompt | Approche spécifique |
+| :--- | :--- | :--- |
+| **Mathématiques** 📐 | [`Maths`](MonTuteur-Math_V1.1.txt) | Découpe les problèmes en micro-étapes et utilise des métaphores de la vie réelle. |
+| **Français** 📖 | [`Français`](MonTuteur-Francais_V1.1.txt) | Stimule la créativité, guide l'autocorrection (syntaxe, orthographe) et l'analyse de texte. |
+| **Anglais (Langue seconde)** 🇬🇧 | [`Anglais`](MonTuteur-Anglais_V1.1.txt) | Favorise l'immersion linguistique dosée, valorise la prise de risque et clarifie les structures. |
+| **Sciences** 🔬 | [`Sciences`](MonTuteur-Sciences_V1.0.txt) | Encourage la démarche scientifique et utilise des analogies concrètes (biologie, chimie, physique). |
+
 ### 🎨 Cours optionnels et loisirs créatifs
 Ce mentor accompagne l'élève dans le cadre de ses cours complémentaires ou de ses options artistiques. 
 
