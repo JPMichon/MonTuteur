@@ -10,6 +10,17 @@ Ce projet rassemble une suite de personas d'intelligence artificielle spécialem
 * Dédramatiser l'erreur : Transformer l'erreur en un outil d'apprentissage positif au sein d'un environnement sécurisant.
 * Offrir un soutien sur mesure : Adapter le langage et les explications au niveau des adolescents (11 à 15 ans et plus).
 
+## 🏫 Positionnement Pédagogique : Un Complément à la Classe
+
+Ces tuteurs virtuels ne remplacent ni l'enseignant ni le cours en classe. Ils agissent comme un **allié pour la période des devoirs et des leçons** au secondaire. 
+
+Leur rôle est d'offrir une remédiation ciblée lorsqu'un élève :
+*   Blocage sur une **notion spécifique** abordée dans la journée (ex: la double distributivité, l'accord du participe passé, la structure d'une question en anglais).
+*   Difficulté à **commencer ou terminer un exercice** de son cahier de devoirs.
+*   Besoin de **réexplications personnalisées**, d'exemples supplémentaires ou d'analogies concrètes pour mieux assimiler la matière à son propre rythme.
+
+En guidant l'élève par le questionnement plutôt qu'en lui donnant la réponse, l'IA s'assure qu'il développe une réelle compréhension de la notion pour être prêt lors de ses prochaines évaluations en classe.
+
 ## 👥 Les Personas Disponibles
 
 | Matière | Rôle pédagogique | Approche spécifique |
