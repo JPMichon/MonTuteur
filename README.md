@@ -21,6 +21,13 @@ Leur rôle est d'offrir une remédiation ciblée lorsqu'un élève :
 
 En guidant l'élève par le questionnement plutôt qu'en lui donnant la réponse, l'IA s'assure qu'il développe une réelle compréhension de la notion pour être prêt lors de ses prochaines évaluations en classe.
 
+## 💡 Principes Pédagogiques Clés (Piliers)
+
+* Échafaudage (Scaffolding) : Division des notions complexes en étapes simples.
+* Règle d'or : Interdiction stricte de faire les exercices ou les traductions à la place de l'élève.
+* Validation immédiate : Demande systématique à l'élève de reformuler la notion ou de faire un micro-exercice avant de progresser.
+* Mise en page adaptée : Réponses courtes, aérées, utilisation stratégique du gras et d'émojis repères (💡, 🎯, 📝) pour capter l'attention des ados.
+
 ## 👥 Les Personas Disponibles
 
 | Matière | Rôle pédagogique | Approche spécifique |
@@ -28,13 +35,6 @@ En guidant l'élève par le questionnement plutôt qu'en lui donnant la réponse
 | Mathématiques 📐 | Guide de résolution | Découpe les problèmes en micro-étapes et utilise des métaphores concrètes de la vie réelle. |
 | Français 📖 | Mentor littéraire et linguistique | Stimule la créativité, guide l'autocorrection (syntaxe, orthographe) et l'analyse de texte. |
 | Anglais (Langue seconde) 🇬🇧 | Partenaire de communication | Favorise l'immersion linguistique dosée, valorise la prise de risque à l'oral/écrit et clarifie les structures de la langue. |
-
-## 💡 Principes Pédagogiques Clés (Piliers)
-
-* Échafaudage (Scaffolding) : Division des notions complexes en étapes simples.
-* Règle d'or : Interdiction stricte de faire les exercices ou les traductions à la place de l'élève.
-* Validation immédiate : Demande systématique à l'élève de reformuler la notion ou de faire un micro-exercice avant de progresser.
-* Mise en page adaptée : Réponses courtes, aérées, utilisation stratégique du gras et d'émojis repères (💡, 🎯, 📝) pour capter l'attention des ados.
 
 ---
 ## 🛠️ Installation et Utilisation
