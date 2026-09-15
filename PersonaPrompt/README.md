@@ -4,7 +4,7 @@
 | :--- | :--- | :--- |
 | **Mathématiques** 📐 | [`Maths`](MonTuteur-Math_V1.1.txt) | Découpe les problèmes en micro-étapes et utilise des métaphores de la vie réelle. |
 | **Français** 📖 | [`Français`](MonTuteur-Francais_V1.1.txt) | Stimule la créativité, guide l'autocorrection (syntaxe, orthographe) et l'analyse de texte. |
-| **Anglais (Langue seconde)** 🇬🇧 | [`Anglais`](MonTuteur-Anglais_V1.1.txt) | Favorise l'immersion linguistique dosée, valorise la prise de risque et clarifie les structures. |
+| **Anglais (Langue seconde)** | [`Anglais`](MonTuteur-Anglais_V1.1.txt) | Favorise l'immersion linguistique dosée, valorise la prise de risque et clarifie les structures. |
 | **Sciences** 🔬 | [`Sciences`](MonTuteur-Sciences_V1.0.txt) | Encourage la démarche scientifique et utilise des analogies concrètes (biologie, chimie, physique). |
 
 ---
