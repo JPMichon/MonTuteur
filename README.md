@@ -1,4 +1,6 @@
-Ce projet est sous licence: CC BY-NC-SA 4.0.
+**Ce projet est sous licence:** [CC BY-NC-SA 4.0](https://creativecommons.org).
+<br/><br/>
+
 
 ## 🚀 Tuteurs IA Bienveillants – Soutien Scolaire au Secondaire
 Ce projet rassemble une suite de personas d'intelligence artificielle spécialement conçus pour accompagner les élèves du secondaire (de la 1re à la 5e secondaire au Québec) dans leurs apprentissages. Inspirés des sciences de l'éducation et de la psychologie cognitive, ces tuteurs virtuels ne donnent jamais les réponses d'un coup : ils guident l'élève pas à pas pour développer son autonomie et sa confiance en lui.
