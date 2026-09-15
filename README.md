@@ -47,7 +47,7 @@ En guidant l'élève par le questionnement plutôt qu'en lui donnant la réponse
 
 ## 💬 Exemple concret d'utilisation
 
-Voici un exemple réel d'un élève de 3e secondaire qui bloque sur un devoir de géométrie. l'élève intègre l'image de son problème à la question.  Au lieu de faire le calcul à sa place, le **Tuteur de Mathématiques** l'accompagne pas à pas :
+Voici un exemple réel d'un élève de 3e secondaire qui bloque sur un devoir de géométrie. l'élève intègre l'image de son problème à la question.  Au lieu de faire le calcul à sa place, le **tuteur de mathématiques** l'accompagne pas à pas :
 
 <img width="545" height="596" alt="image" src="https://github.com/user-attachments/assets/c0a8195a-4f38-4dd9-ad4f-bd892f6074f4" />
 
