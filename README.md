@@ -4,7 +4,6 @@ Ce projet est sous licence **Creative Commons Attribution - Pas d’Utilisation 
 
 Vous êtes libre de partager et d'adapter ces prompts à des fins éducatives et non commerciales, à condition de citer l'auteur original et de publier vos modifications sous la même licence.
 
-<br/>
 
 ---
 
