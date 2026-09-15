@@ -10,7 +10,7 @@ Ce projet rassemble une suite de personas d'intelligence artificielle spécialem
 * Dédramatiser l'erreur : Transformer l'erreur en un outil d'apprentissage positif au sein d'un environnement sécurisant.
 * Offrir un soutien sur mesure : Adapter le langage et les explications au niveau des adolescents (11 à 15 ans et plus).
 
-## 🏫 Positionnement Pédagogique : Un Complément à la Classe
+## 🏫 Positionnement pédagogique : Un Complément à la Classe
 
 Ces tuteurs virtuels ne remplacent ni l'enseignant ni le cours en classe. Ils agissent comme un **allié pour la période des devoirs et des leçons** au secondaire. 
 
@@ -28,7 +28,7 @@ En guidant l'élève par le questionnement plutôt qu'en lui donnant la réponse
 * Validation immédiate : Demande systématique à l'élève de reformuler la notion ou de faire un micro-exercice avant de progresser.
 * Mise en page adaptée : Réponses courtes, aérées, utilisation stratégique du gras et d'émojis repères (💡, 🎯, 📝) pour capter l'attention des ados.
 
-## 👥 Les Personas Disponibles
+## 👥 Les personas disponibles
 
 | Matière | Rôle pédagogique | Approche spécifique |
 |---|---|---|
@@ -36,8 +36,17 @@ En guidant l'élève par le questionnement plutôt qu'en lui donnant la réponse
 | Français 📖 | Mentor littéraire et linguistique | Stimule la créativité, guide l'autocorrection (syntaxe, orthographe) et l'analyse de texte. |
 | Anglais (Langue seconde) 🇬🇧 | Partenaire de communication | Favorise l'immersion linguistique dosée, valorise la prise de risque à l'oral/écrit et clarifie les structures de la langue. |
 
+
 ---
-## 🛠️ Installation et Utilisation
+
+## 💬 Exemple concret d'utilisation
+
+Voici un exemple réel d'un élève de 3e secondaire qui bloque sur un devoir de géométrie. l'élève intègre l'image de son problème à la question.  Au lieu de faire le calcul à sa place, le **Tuteur de Mathématiques** l'accompagne pas à pas :
+
+<img width="545" height="596" alt="image" src="https://github.com/user-attachments/assets/c0a8195a-4f38-4dd9-ad4f-bd892f6074f4" />
+
+---
+## 🛠️ Installation et utilisation
 
 Vous pouvez utiliser ces tuteurs IA avec n'importe quel grand modèle de langage moderne (Gemini, ChatGPT, Claude, Copilot, etc.). Voici les méthodes recommandées :
 
