@@ -1,4 +1,9 @@
-**Ce projet est sous licence:** [CC BY-NC-SA 4.0](https://creativecommons.org).
+## ⚖️ Licence
+
+Ce projet est sous licence **Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0)**.
+
+Vous êtes libre de partager et d'adapter ces prompts à des fins éducatives et non commerciales, à condition de citer l'auteur original et de publier vos modifications sous la même licence.
+
 <br/><br/>
 
 
