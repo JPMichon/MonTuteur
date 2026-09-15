@@ -3,11 +3,10 @@
 
 | Matière | Fichier du prompt | Approche spécifique |
 | :--- | :--- | :--- |
-| **Mathématiques** 📐 | [`MonTuteur-Math_V1.x.txt`](MonTuteur-Math_V1.x.txt) | Découpe les problèmes en micro-étapes et utilise des métaphores de la vie réelle. |
-| **Français** 📖 | [`MonTuteur-Francais_V1.x.txt`](MonTuteur-Francais_V1.x.txt) | Stimule la créativité, guide l'autocorrection (syntaxe, orthographe) et l'analyse de texte. |
-| **Anglais (Langue seconde)** 🇬🇧 | [`MonTuteur-Anglais_V1.x.txt`](MonTuteur-Anglais_V1.x.txt) | Favorise l'immersion linguistique dosée, valorise la prise de risque et clarifie les structures. |
-| **Sciences** 🔬 | [`MonTuteur-Sciences_V1.x.txt`](MonTuteur-Sciences_V1.x.txt) | Encourage la démarche scientifique et utilise des analogies concrètes (biologie, chimie, physique). |
-
+| **Mathématiques** 📐 | [`MonTuteur-Math_V1.1.txt`](MonTuteur-Math.txt) | Découpe les problèmes en micro-étapes et utilise des métaphores de la vie réelle. |
+| **Français** 📖 | [`MonTuteur-Francais_V1.1.txt`](MonTuteur-Francais.txt) | Stimule la créativité, guide l'autocorrection (syntaxe, orthographe) et l'analyse de texte. |
+| **Anglais (Langue seconde)** 🇬🇧 | [`MonTuteur-Anglais_V1.1.txt`](MonTuteur-Anglais.txt) | Favorise l'immersion linguistique dosée, valorise la prise de risque et clarifie les structures. |
+| **Sciences** 🔬 | [`MonTuteur-Sciences_V1.0.txt`](MonTuteur-Sciences.txt) | Encourage la démarche scientifique et utilise des analogies concrètes (biologie, chimie, physique). |
 
 ---
 
