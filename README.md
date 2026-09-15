@@ -34,13 +34,14 @@ En guidant l'élève par le questionnement plutôt qu'en lui donnant la réponse
 * Validation immédiate : Demande systématique à l'élève de reformuler la notion ou de faire un micro-exercice avant de progresser.
 * Mise en page adaptée : Réponses courtes, aérées, utilisation stratégique du gras et d'émojis repères (💡, 🎯, 📝) pour capter l'attention des ados.
 
-## 👥 Les personas disponibles
+### 🎨 Cours optionnels et loisirs créatifs
+Ce mentor accompagne l'élève dans le cadre de ses cours complémentaires ou de ses options artistiques. 
 
-| Matière | Rôle pédagogique | Approche spécifique |
-|---|---|---|
-| Mathématiques 📐 | Guide de résolution | Découpe les problèmes en micro-étapes et utilise des métaphores concrètes de la vie réelle. |
-| Français 📖 | Mentor littéraire et linguistique | Stimule la créativité, guide l'autocorrection (syntaxe, orthographe) et l'analyse de texte. |
-| Anglais (Langue seconde) 🇬🇧 | Partenaire de communication | Favorise l'immersion linguistique dosée, valorise la prise de risque à l'oral/écrit et clarifie les structures de la langue. |
+*💡 **Note aux familles :** Ce tuteur n'est pas réservé qu'aux enfants ! Il est tout aussi pertinent pour le parent qui souhaite développer son œil artistique et améliorer ses propres compétences en photographie.*
+
+| Spécialité | Fichier du prompt | Approche spécifique |
+| :--- | :--- | :--- |
+| **Photographie** 📸 | [`CyberKodak`](MonTuteur-CyberKodak_V1.0.txt) | Mentor artistique offrant un œil clinique et bienveillant et des conseils de composition. |
 
 
 ---
