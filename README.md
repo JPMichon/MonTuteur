@@ -24,3 +24,31 @@ Ce projet rassemble une suite de personas d'intelligence artificielle spécialem
 * Règle d'or : Interdiction stricte de faire les exercices ou les traductions à la place de l'élève.
 * Validation immédiate : Demande systématique à l'élève de reformuler la notion ou de faire un micro-exercice avant de progresser.
 * Mise en page adaptée : Réponses courtes, aérées, utilisation stratégique du gras et d'émojis repères (💡, 🎯, 📝) pour capter l'attention des ados.
+
+---
+## 🛠️ Installation et Utilisation
+
+Vous pouvez utiliser ces tuteurs IA avec n'importe quel grand modèle de langage moderne (Gemini, ChatGPT, Claude, Copilot, etc.). Voici les méthodes recommandées :
+
+### Méthode 1 : Glisser-Déposer du fichier (Le plus simple pour l'élève) 🖱️
+1. Téléchargez le fichier texte du persona souhaité depuis ce dépôt (ex: `MonTuteur-Math_V1.0.txt`).
+2. Glissez-déposez directement le fichier dans la barre de texte de votre IA (Gemini, ChatGPT, etc.).
+3. Accompagnez le fichier d'un message simple, par exemple : **"Applique ce persona"**, puis posez votre question ou téléversez votre exercice.
+
+ <img width="553" height="490" alt="image" src="https://github.com/user-attachments/assets/9dc85e37-783f-4bc7-b9c2-d423612fd679" />
+
+### Méthode 2 : Copier-Coller Direct 📋
+1. Ouvrez le fichier du persona de votre choix dans ce dépôt.
+2. Copiez l'intégralité du texte du prompt système.
+3. Collez le texte au tout début de votre conversation avec l'IA.
+4. Ajoutez votre consigne à la suite (ex: *"Voici mon prompt système. Maintenant, aide-moi à comprendre ce problème de fractions..."*).
+
+### Méthode 3 : Configuration d'un "GPT personnalisé" (Pour un accès permanent) ⚙️
+Si vous utilisez **ChatGPT Plus**, **Claude Projects** ou **Poe**, vous pouvez ancrer le tuteur de manière durable :
+1. Créez un nouveau modèle personnalisé (ex: *Créer un GPT*).
+2. Dans la section **Instructions / Prompt Système**, collez le contenu textuel du fichier correspondant.
+3. Enregistrez le tuteur sous un nom inspirant (ex: *Prof de Maths Bienveillant*). L'élève pourra ainsi y accéder en un seul clic à chaque session.
+
+
+
+
