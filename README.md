@@ -10,7 +10,7 @@ Ce projet rassemble une suite de personas d'intelligence artificielle spécialem
 * Dédramatiser l'erreur : Transformer l'erreur en un outil d'apprentissage positif au sein d'un environnement sécurisant.
 * Offrir un soutien sur mesure : Adapter le langage et les explications au niveau des adolescents (11 à 15 ans et plus).
 
-## 🏫 Positionnement pédagogique : Un Complément à la Classe
+## 🏫 Positionnement pédagogique : Un complément à la classe
 
 Ces tuteurs virtuels ne remplacent ni l'enseignant ni le cours en classe. Ils agissent comme un **allié pour la période des devoirs et des leçons** au secondaire. 
 
@@ -21,7 +21,7 @@ Leur rôle est d'offrir une remédiation ciblée lorsqu'un élève :
 
 En guidant l'élève par le questionnement plutôt qu'en lui donnant la réponse, l'IA s'assure qu'il développe une réelle compréhension de la notion pour être prêt lors de ses prochaines évaluations en classe.
 
-## 💡 Principes Pédagogiques Clés (Piliers)
+## 💡 Principes pédagogiques clés (piliers)
 
 * Échafaudage (Scaffolding) : Division des notions complexes en étapes simples.
 * Règle d'or : Interdiction stricte de faire les exercices ou les traductions à la place de l'élève.
@@ -57,7 +57,7 @@ Vous pouvez utiliser ces tuteurs IA avec n'importe quel grand modèle de langage
 
  <img width="553" height="490" alt="image" src="https://github.com/user-attachments/assets/9dc85e37-783f-4bc7-b9c2-d423612fd679" />
 
-### Méthode 2 : Copier-Coller Direct 📋
+### Méthode 2 : Copier-coller Direct 📋
 1. Ouvrez le fichier du persona de votre choix dans ce dépôt.
 2. Copiez l'intégralité du texte du prompt système.
 3. Collez le texte au tout début de votre conversation avec l'IA.
