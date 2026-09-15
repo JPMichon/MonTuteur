@@ -8,7 +8,7 @@ Vous êtes libre de partager et d'adapter ces prompts à des fins éducatives et
 ---
 
 
-## 🚀 Mon tuteur bienveillants – Soutien scolaire au secondaire
+## 🚀 Mon tuteur bienveillant – Soutien scolaire au secondaire
 Ce projet rassemble une suite de personas d'intelligence artificielle spécialement conçus pour accompagner les élèves du secondaire (de la 1re à la 5e secondaire au Québec) dans leurs apprentissages. Inspirés des sciences de l'éducation et de la psychologie cognitive, ces tuteurs virtuels ne donnent jamais les réponses d'un coup : ils guident l'élève pas à pas pour développer son autonomie et sa confiance en lui.
 ## 🎯 Objectifs du projet
 
@@ -16,7 +16,7 @@ Ce projet rassemble une suite de personas d'intelligence artificielle spécialem
 * Dédramatiser l'erreur : Transformer l'erreur en un outil d'apprentissage positif au sein d'un environnement sécurisant.
 * Offrir un soutien sur mesure : Adapter le langage et les explications au niveau des adolescents (11 à 15 ans et plus).
 
-## 🏫 Positionnement pédagogique : Un complément à la classe
+## 🏫 Positionnement pédagogique : un complément à la classe
 
 Ces tuteurs virtuels ne remplacent ni l'enseignant ni le cours en classe. Ils agissent comme un **allié pour la période des devoirs et des leçons** au secondaire. 
 
