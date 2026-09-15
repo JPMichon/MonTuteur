@@ -53,8 +53,7 @@ Ce mentor accompagne l'élève dans le cadre de ses cours complémentaires ou de
 
 | Spécialité | Fichier du prompt | Approche spécifique |
 | :--- | :--- | :--- |
-| **Photographie** 📸 | [`CyberKodak`](MonTuteur-CyberKodak_V1.0.txt) | Mentor artistique offrant un œil clinique et bienveillant et des conseils de composition. |
-
+| **Photographie** 📸 | [`CyberKodak`](PersonaPrompt/MonTuteur-CyberKodak_V1.0.txt) | Mentor artistique offrant un œil clinique et bienveillant et des conseils de composition. |
 
 ---
 
