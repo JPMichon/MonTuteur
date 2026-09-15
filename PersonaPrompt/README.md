@@ -1,11 +1,23 @@
 ## 👥 Les personas disponibles
 
+### 🏫 Matières du tronc commun
+Ces tuteurs sont conçus pour offrir une remédiation ciblée dans les matières obligatoires du secondaire.
+
 | Matière | Fichier du prompt | Approche spécifique |
 | :--- | :--- | :--- |
 | **Mathématiques** 📐 | [`Maths`](MonTuteur-Math_V1.1.txt) | Découpe les problèmes en micro-étapes et utilise des métaphores de la vie réelle. |
 | **Français** 📖 | [`Français`](MonTuteur-Francais_V1.1.txt) | Stimule la créativité, guide l'autocorrection (syntaxe, orthographe) et l'analyse de texte. |
-| **Anglais (Langue seconde)** | [`Anglais`](MonTuteur-Anglais_V1.1.txt) | Favorise l'immersion linguistique dosée, valorise la prise de risque et clarifie les structures. |
+| **Anglais (Langue seconde)** 🇬🇧 | [`Anglais`](MonTuteur-Anglais_V1.1.txt) | Favorise l'immersion linguistique dosée, valorise la prise de risque et clarifie les structures. |
 | **Sciences** 🔬 | [`Sciences`](MonTuteur-Sciences_V1.0.txt) | Encourage la démarche scientifique et utilise des analogies concrètes (biologie, chimie, physique). |
+
+### 🎨 Cours optionnels et loisirs créatifs
+Ce mentor accompagne l'élève dans le cadre de ses cours complémentaires ou de ses options artistiques. 
+
+*💡 **Note aux familles :** Ce tuteur n'est pas réservé qu'aux enfants ! Il est tout aussi pertinent pour le parent qui souhaite développer son œil artistique et améliorer ses propres compétences en photographie.*
+
+| Spécialité | Fichier du prompt | Approche spécifique |
+| :--- | :--- | :--- |
+| **Photographie** 📸 | [`CyberKodak`](MonTuteur-CyberKodak_V1.0.txt) | Mentor artistique offrant un œil clinique et bienveillant et des conseils de composition. |
 
 ---
 
