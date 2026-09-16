@@ -81,11 +81,25 @@ Vous pouvez utiliser ces tuteurs IA avec n'importe quel grand modèle de langage
 3. Collez le texte au tout début de votre conversation avec l'IA.
 4. Ajoutez votre consigne à la suite (ex: *"Voici mon prompt système. Maintenant, aide-moi à comprendre ce problème de fractions..."*).
 
-### Méthode 3 : Configuration d'un "GPT personnalisé" (Pour un accès permanent) ⚙️
-Si vous utilisez **ChatGPT Plus**, **Claude Projects** ou **Poe**, vous pouvez ancrer le tuteur de manière durable :
-1. Créez un nouveau modèle personnalisé (ex: *Créer un GPT*).
-2. Dans la section **Instructions / Prompt Système**, collez le contenu textuel du fichier correspondant.
-3. Enregistrez le tuteur sous un nom inspirant (ex: *Prof de Maths Bienveillant*). L'élève pourra ainsi y accéder en un seul clic à chaque session.
+---
+
+## 🛡️ Souveraineté numérique et utilisation en local
+
+Pour les institutions scolaires, les enseignants ou les familles soucieuses de la **confidentialité des données des mineurs**, ces personas peuvent être exécutés **100 % localement**, sans envoyer la moindre information sur des serveurs externes.
+
+> 💡 ***Conseil sur la taille des modèles :*** Pour un usage fluide, nous recommandons les modèles dans la gamme **3B à 8B paramètres** (comme Gemma 4 4B ou Llama 3.1 8B). Ils représentent le parfait équilibre entre intelligence (compréhension fine du rôle de tuteur) et rapidité sur un ordinateur grand public.
+> 
+### 💡 Pourquoi choisir l'exécution locale ?
+* **Confidentialité absolue** : Les échanges et les devoirs des élèves restent strictement sur la machine locale.
+* **Indépendance technologique** : Aucune dépendance à une connexion Internet ou à des abonnements cloud payants.
+* **Gratuité et résilience** : Une fois téléchargés, les tuteurs fonctionnent partout, même hors ligne.
+
+### 💻 Environnements et modèles testés
+Ce projet a été validé et fonctionne de manière fluide avec les outils d'exécution locale suivants :
+* **Logiciels recommandés** : [Ollama](https://ollama.com) et [LM Studio](https://lmstudio.ai).
+* **Modèle validé** : **Gemma (gemma 4 e4b)**, qui démontre une excellente compréhension du français et des consignes de guidage pas-à-pas.
+* **Autres modèles compatibles** : Tout modèle open-source multilingue performant (comme **Llama 3** ou **Mistral**) saura interpréter ces prompts avec la même efficacité.
+
 
 
 
