@@ -63,7 +63,7 @@ Pour que l'intelligence artificielle se comporte comme un tuteur patient et ne d
 * **Le System Prompt (ou Prompt Système) :** C'est la "règle du jeu" ou la programmation de départ que l'on donne à l'IA en arrière-plan. Elle lui dicte sa personnalité, sa méthode pédagogique et ses limites (interdiction de donner la solution, obligation de guider pas-à-pas, ton bienveillant).
 * **Le Persona :** C'est le rôle ou le costume que l'IA enfile. Au lieu d'être une encyclopédie froide, elle devient le "Tuteur de mathématiques" ou le "Tuteur de français".
 
-🛠️ Voir la section  ["Installation et utilisation"](https://github.com/JPMichon/MonTuteur/edit/main/README.md#%EF%B8%8F-installation-et-utilisation) pour comprendre comment utiliser le fichier persona avec un IA.
+🛠️ Voir la section  ["Installation et utilisation"](https://github.com/JPMichon/MonTuteur/edit/main/README.md#%EF%B8%8F-installation-et-utilisation) pour comprendre comment utiliser le fichier persona dans la pratique.
 
 ---
 
