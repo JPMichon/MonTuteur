@@ -36,20 +36,6 @@ Vous pouvez utiliser ces tuteurs IA avec n'importe quel grand modèle de langage
 3. Collez le texte au tout début de votre conversation avec l'IA.
 4. Ajoutez votre consigne à la suite (ex: *"Voici mon prompt système. Maintenant, aide-moi à comprendre ce problème de fractions..."*).
 
-### Méthode 3 : Configuration d'un "GPT personnalisé" (Pour un accès permanent) ⚙️
-Si vous utilisez **ChatGPT Plus**, **Claude Projects** ou **Poe**, vous pouvez ancrer le tuteur de manière durable :
-1. Créez un nouveau modèle personnalisé (ex: *Créer un GPT*).
-2. Dans la section **Instructions / Prompt Système**, collez le contenu textuel du fichier correspondant.
-3. Enregistrez le tuteur sous un nom inspirant (ex: *Prof de Maths Bienveillant*). L'élève pourra ainsi y accéder en un seul clic à chaque session.
-
----
-
-## 💬 Exemple Concret d'Utilisation
-
-Voici un exemple réel d'un élève de 3e secondaire qui bloque sur un devoir de géométrie. l'élève intègre l'image de son problème à la question.  Au lieu de faire le calcul à sa place, le **Tuteur de Mathématiques** l'accompagne pas à pas :
-
-<img width="545" height="596" alt="image" src="https://github.com/user-attachments/assets/c0a8195a-4f38-4dd9-ad4f-bd892f6074f4" />
-
 ---
 
 ## 💡 Principes Pédagogiques Clés (Piliers)
