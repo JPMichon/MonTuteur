@@ -6,9 +6,12 @@
 >
 > Ce projet n'est pas une solution commerciale ni une plateforme institutionnelle. Je suis simplement un **parent débrouillard** qui cherchait un moyen concret, bienveillant et moderne d'aider mon enfant à faire ses devoirs de niveau secondaire au Québec. 
 >
-> Face à la complexité de certains exercices et à la peur de paraître poche aux yeux de mon enfant, j'ai conçu ces tuteurs virtuels. Ils ne donnent jamais la réponse finale : ils agissent comme un mentor patient qui guide l'élève pas-à-pas à travers ses propres blocages. En ouvrant ce projet sur GitHub, j'espère qu'il pourra être utile à d'autres parents ou enseignants qui partagent la même réalité familiale.
+> Face à la complexité de certains exercices et à la peur de paraître poche aux yeux de mon enfant, j'ai conçu ces tuteurs virtuels. Ils ne donnent jamais la réponse finale : ils agissent comme un mentor patient qui guide l'élève pas-à-pas à travers ses propres blocages. En ouvrant ce dépot sur GitHub, j'espère qu'il pourra être utile à d'autres parents ou enseignants qui partagent la même réalité familiale.
+>
+> Je ne prétends pas que mon "outil" est parfait, mais entre un élève qui utilise l'IA comme une simple calculatrice et cette approche qui lui permet d'aller chercher ses connaissances manquantes sans jamais être jugé, il y a un monde. Cela n'a pas pour but de remplacer le mentorat humain. Mais devant une crise de panique à 20h le soir pour un devoir à remettre ou un examen le lendemain, c'est potentiellement  votre bouée de sauvetage.
+>
 
-💡 **Ce projet est en Creative Common, ce qui veut dire que vous êtes entièrement libre d'utiliser, de copier et de modifier ces prompts pour votre usage personnel, familial ou dans votre classe.**
+💡 **Ce projet est en Creative Commons, ce qui veut dire que vous êtes entièrement libre d'utiliser, de copier et de modifier ces prompts pour votre usage personnel, familial ou dans votre classe.**
 
 ---
 
