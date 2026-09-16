@@ -68,7 +68,8 @@ Au lieu de faire le calcul à sa place ou de lui donner la formule, le **tuteur 
 <img width="787" height="890" alt="image" src="https://github.com/user-attachments/assets/a44a47b4-7514-43eb-9269-2aeb93773004" />
 
 
-> 💡 **Note technique :** L'échange ci-dessus est une capture réelle générée à 100 % en local par le modèle **Gemma 4 e4b** « IA locale et ouverte » (Local Open-Weights AI).
+> 💡 **Note technique :** L'échange ci-dessus est une capture réelle générée à 100 % en local par le modèle **Gemma 4 e4b**
+> (un modèle d'« IA locale et ouverte » ou *Local Open-Weights AI*).
 
 
 ---
