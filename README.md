@@ -6,7 +6,7 @@
 >
 > Ce projet n'est pas une solution commerciale ni une plateforme institutionnelle. Je suis simplement un **parent débrouillard** qui cherchait un moyen concret, bienveillant et moderne d'aider mon enfant à faire ses devoirs de niveau secondaire au Québec. 
 >
-> Face à la complexité de certains exercices et à la peur de paraître poche aux yeux de mon enfant, j'ai conçu ces tuteurs virtuels. Ils ne donnent jamais la réponse finale : ils agissent comme un mentor patient qui guide l'élève pas-à-pas à travers ses propres blocages. En ouvrant ce dépôt sur GitHub, j'espère qu'il pourra être utile à d'autres parents ou enseignants qui partagent la même réalité familiale.
+> Face à la complexité de certains exercices et à la peur de paraître "poche" aux yeux de mon enfant, j'ai conçu ces tuteurs virtuels. Ils ne donnent jamais la réponse finale : ils agissent comme un mentor patient qui guide l'élève pas-à-pas à travers ses propres blocages. En ouvrant ce dépôt sur GitHub, j'espère qu'il pourra être utile à d'autres parents ou enseignants qui partagent la même réalité familiale.
 >
 > Je ne prétends pas que mon "outil" est parfait. Mais entre un élève qui utilise l'IA comme une simple calculatrice et cette approche pas-à-pas, il y a un monde. 
 >
