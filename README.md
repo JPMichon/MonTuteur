@@ -61,11 +61,15 @@ Ce mentor accompagne l'élève dans le cadre de ses cours complémentaires ou de
 
 Voici un exemple réel d'un élève qui bloque sur un devoir de trigonométrie. Cet exemple illustre deux forces majeures du projet :
 1. **L'usage d'une simple photo :** L'élève téléverse directement l'image de son problème sans rien retranscrire.
-2. **Le langage naturel :** L'élève exprime son blocage avec ses propres mots (*"je ne comprends pas cette question"*), sans jargon technique.
+2. **Le langage naturel :** L'élève exprime son blocage avec ses propres mots (*"je dois trouver la longueur du segment f-e, je ne sais pas comment faire"*), sans jargon technique.
 
 Au lieu de faire le calcul à sa place ou de lui donner la formule, le **tuteur de mathématiques** analyse l'image, le rassure et lance un questionnement pas-à-pas pour l'amener à identifier les côtés du triangle :
 
-<img width="545" height="596" alt="image" src="https://github.com/user-attachments/assets/c0a8195a-4f38-4dd9-ad4f-bd892f6074f4" />
+<img width="787" height="890" alt="image" src="https://github.com/user-attachments/assets/a44a47b4-7514-43eb-9269-2aeb93773004" />
+
+
+> 💡 **Note technique :** L'échange ci-dessus est une capture réelle générée à 100 % en local par le modèle **Gemma 4 e4b** « IA locale et ouverte » (Local Open-Weights AI).
+
 
 ---
 ## 🛠️ Installation et utilisation
