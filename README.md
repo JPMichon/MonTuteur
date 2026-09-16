@@ -10,7 +10,7 @@
 >
 > Je ne prétends pas que mon "outil" est parfait. Mais entre un élève qui utilise l'IA comme une simple calculatrice et cette approche pas-à-pas, il y a un monde. 
 >
-> Ici, l'élève peut poser des questions sur des notions de base dont il a honte ou qu'il a peur de demander à un humain, par crainte d'être jugé ou de paraître en retard. L'IA offre un espace d'apprentissage 100 % confidentiel et bienveillant, où l'erreur est simplement une étape normale du processus. 
+> Ici, l'élève peut poser des questions sur des notions de base dont il a honte ou qu'il a peur de demander à un prof, par crainte d'être jugé ou de paraître en retard. L'IA offre un espace d'apprentissage 100 % confidentiel et bienveillant, où l'erreur est simplement une étape normale du processus. 
 >
 > Cela n'a évidemment pas pour but de remplacer le mentorat humain. Mais devant une crise de panique à 20h le soir pour un devoir à remettre ou un examen le lendemain, c'est potentiellement votre bouée de sauvetage.
 
