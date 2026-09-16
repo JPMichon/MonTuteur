@@ -1,12 +1,25 @@
+
+
+## 💬 Avant-propos : L'histoire derrière ce projet
+
+> *"Cela fait bien longtemps que j'ai quitté les bancs d'école, mes propres notions académiques sont comme... Un peu floues. Qui plus est, les méthodes d'enseignement ont beaucoup changé depuis."*
+>
+> Ce projet n'est pas une solution commerciale ni une plateforme institutionnelle. Je suis simplement un **parent débrouillard** qui cherchait un moyen concret, bienveillant et moderne d'aider mon enfant à faire ses devoirs de niveau secondaire au Québec. 
+>
+> Face à la complexité de certains exercices et à la peur de paraître poche aux yeux de mon enfant, j'ai conçu ces tuteurs virtuels. Ils ne donnent jamais la réponse finale : ils agissent comme un mentor patient qui guide l'élève pas-à-pas à travers ses propres blocages. En ouvrant ce projet sur GitHub, j'espère qu'il pourra être utile à d'autres parents ou enseignants qui partagent la même réalité familiale.
+
+💡 **Ce projet est en Creative Common, ce qui veut dire que vous êtes entièrement libre d'utiliser, de copier et de modifier ces prompts pour votre usage personnel, familial ou dans votre classe.**
+
+---
+
 ## ⚖️ Licence
 
-Ce projet est sous licence **Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0)**.
+Ce projet est officiellement partagé sous licence **Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0)**.
 
 Vous êtes libre de partager et d'adapter ces prompts à des fins éducatives et non commerciales, à condition de citer l'auteur original et de publier vos modifications sous la même licence.
 
 
 ---
-
 
 ## 🚀 Mon tuteur bienveillant – Soutien scolaire au secondaire
 Ce projet rassemble une suite de personas d'intelligence artificielle spécialement conçus pour accompagner les élèves du secondaire (de la 1re à la 5e secondaire au Québec) dans leurs apprentissages. Inspirés des sciences de l'éducation et de la psychologie cognitive, ces tuteurs virtuels ne donnent jamais les réponses d'un coup : ils guident l'élève pas à pas pour développer son autonomie et sa confiance en lui.
