@@ -15,7 +15,7 @@
 > Cela n'a évidemment pas pour but de remplacer le mentorat humain. Mais devant une crise de panique à 20h le soir pour un devoir à remettre ou un examen le lendemain, c'est potentiellement votre bouée de sauvetage.
 
 
-💡 **Ce projet est en Creative Commons, ce qui veut dire que vous êtes entièrement libre d'utiliser, de copier ces prompts pour votre usage personnel, familial ou dans votre classe.**
+💡 **Ce projet est en Creative Commons, ce qui veut dire que vous êtes entièrement libre d'utiliser ces prompts pour votre usage personnel, familial ou dans votre classe.**
 
 ---
 
