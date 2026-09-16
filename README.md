@@ -60,10 +60,10 @@ En guidant l'élève par le questionnement plutôt qu'en lui donnant la réponse
 
 Pour que l'intelligence artificielle se comporte comme un tuteur patient et ne donne pas bêtement la réponse à votre enfant, elle a besoin d'un cadre strict. C'est le rôle des fichiers fournis dans ce projet :
 
-* **Le System Prompt (ou Prompt Système) :** C'est la "règle du jeu" ou la programmation de départ que l'on donne à l'IA en arrière-plan. Elle lui dicte sa personnalité, sa méthode pédagogique et ses limites (interdiction de donner la solution, obligation de guider pas-à-pas, ton bienveillant).
+* **Le System Prompt (ou Prompt Système) :** C'est la "règle du jeu" ou la programmation de départ que l'on donne à l'IA en arrière-plan. Elle lui dicte sa personnalité, sa méthode pédagogique et ses limites (interdiction de donner la solution, obligation de guider pas à pas, ton bienveillant).
 * **Le Persona :** C'est le rôle ou le costume que l'IA enfile. Au lieu d'être une encyclopédie froide, elle devient le "Tuteur de mathématiques" ou le "Tuteur de français".
 
-🛠️ Voir la section  ["Installation et utilisation"](https://github.com/JPMichon/MonTuteur/edit/main/README.md#%EF%B8%8F-installation-et-utilisation) pour comprendre comment utiliser le fichier persona dans la pratique.
+🛠️ Voir la section  ["Installation et utilisation"](https://github.com/JPMichon/MonTuteur/edit/main/README.md#%EF%B8%8F-installation-et-utilisation) pour comprendre comment utiliser le « le fichier de persona » dans la pratique.
 
 ---
 
