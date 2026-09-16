@@ -54,6 +54,19 @@ En guidant l'élève par le questionnement plutôt qu'en lui donnant la réponse
 * Validation immédiate : Demande systématique à l'élève de reformuler la notion ou de faire un micro-exercice avant de progresser.
 * Mise en page adaptée : Réponses courtes, aérées, utilisation stratégique du gras et d'émojis repères (💡, 🎯, 📝) pour capter l'attention des ados.
 
+---
+
+### 🧠 Comprendre le fonctionnement : Qu'est-ce qu'un "Persona" ou "System Prompt" ?
+
+Pour que l'intelligence artificielle se comporte comme un tuteur patient et ne donne pas bêtement la réponse à votre enfant, elle a besoin d'un cadre strict. C'est le rôle des fichiers fournis dans ce projet :
+
+* **Le System Prompt (ou Prompt Système) :** C'est la "règle du jeu" ou la programmation de départ que l'on donne à l'IA en arrière-plan. Elle lui dicte sa personnalité, sa méthode pédagogique et ses limites (interdiction de donner la solution, obligation de guider pas-à-pas, ton bienveillant).
+* **Le Persona :** C'est le rôle ou le costume que l'IA enfile. Au lieu d'être une encyclopédie froide, elle devient le "Tuteur de mathématiques" ou le "Tuteur de français".
+
+🛠️ Voir la section  ["Installation et utilisation"](https://github.com/JPMichon/MonTuteur/edit/main/README.md#%EF%B8%8F-installation-et-utilisation) pour comprendre comment utiliser le fichier persona avec un IA.
+
+---
+
 ## 👥 Les personas disponibles
 
 ### 🏫 Matières du tronc commun
@@ -128,7 +141,8 @@ Ce projet a été validé et fonctionne de manière fluide avec les outils d'ex�
 * **Logiciels recommandés** : [Ollama](https://ollama.com) et [LM Studio](https://lmstudio.ai).
 * **Modèle validé** : **Gemma (gemma 4 e4b)**, qui démontre une excellente compréhension du français et des consignes de guidage pas-à-pas.
 * **Autres modèles compatibles** : Tout modèle open-source multilingue performant (comme **Llama 3** ou **Mistral**) saura interpréter ces prompts avec la même efficacité.
-
+* 
+_⚠️ **Important :** Pour que le tuteur fonctionne correctement, ces prompts doivent être collés dans la section **"System Prompt"**, **"Instruction système"** ou **"Modelfile"** de votre logiciel (Open WebUI, LM Studio, Ollama), et non pas dans la zone de discussion habituelle avec l'élève._
 
 
 
