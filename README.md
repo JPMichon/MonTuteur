@@ -144,6 +144,14 @@ Ce projet a été validé et fonctionne de manière fluide avec les outils d'ex�
 * 
 _⚠️ **Important :** Pour que le tuteur fonctionne correctement, ces prompts doivent être collés dans la section **"System Prompt"**, **"Instruction système"** ou **"Modelfile"** de votre logiciel (Open WebUI, LM Studio, Ollama), et non pas dans la zone de discussion habituelle avec l'élève._
 
+## ☕ Soutenir le projet
+
+Si vous appréciez mon travail et souhaitez m'offrir un café pour me soutenir bénévolement dans mes futurs projets de soudure et de code, vous pouvez me laisser un pourboire sur Ko-fi. C'est entièrement volontaire et grandement apprécié !
+
+
+
+
+
 
 
 
